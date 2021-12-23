@@ -1,38 +1,180 @@
-.App {
-  text-align: center;
+.logo{
+  font-size: 30px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.link{
+  text-decoration: none;
+  color: white;
+  margin-left: 150px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.link:hover{
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.dropdown {
+  position:relative;
+  display: inline-block;
+  margin-left: 150px;
+}
+.dropbtn {  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {
+  background-color: rgb(46, 146, 113);
+  color: white ;
+}
+.dropdown:hover .dropdown-content {display: block;}
+.modalButton{
+  margin-left: auto;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.loginSign{
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  margin: 20px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bar{
+  font-size: 20px;
+}
+.active{
+  max-width: 300px;
+  margin-top: 60px;
+}
+.search{
+  margin-top: 60px;
+}
+.symbol{
+  font-size: 30px;
+  margin-top: 60px;
+}
+.image{
+  max-width: 210vh;
+}
+
+.sticker{
+  font-size: 30px;
+  color: rgb(28, 97, 53);
+}
+
+.category > h1{
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 60px;
+}
+.category > p{
+  text-align: center;
+  margin-top: 30px;
+}
+
+div.polaroid {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+div.content {
+  text-align: center;
+  padding: 10px 20px;
+}
+div.content > h1{
+  font-size: 25px;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.arrivals{
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 30px;
+}
+.arrivals > p{
+  font-family: none;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.imageContent {
+  position: relative;
+}
+.center > h1 {
+  position: absolute;
+  top: 25%;
+  left: 75%;
+  transform: translate(-40%, -50%);
+  font-size: 60px;
+}
+.center > p{
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-20%, -50%);
+  font-size: 20px;
+}
+.button{
+  position: absolute;
+  top: 70%;
+  left: 78%;
+  transform: translate(-30%, -50%);
+}
+
+.ourblogs{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+form.emailButton input {
+  padding: 10px;
+  transform: translate(-47%, 10%);
+}
+
+form.emailButton button {
+  float: right;
+  width: 50%;
+  padding: 10px;
+  background: green;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  transform: translate( 5%, -90%);
+}
+
+form.emailButton button:hover {
+  background: #176339;
+}
+
+form.emailButton::after {
+  content: "";
+  clear: both;
+  display: table;
 }
