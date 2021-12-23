@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/supermarket-shop-react/static/css/main.9c83dca9.chunk.css",
+    "main.js": "/supermarket-shop-react/static/js/main.a5b107d5.chunk.js",
+    "main.js.map": "/supermarket-shop-react/static/js/main.a5b107d5.chunk.js.map",
+    "runtime-main.js": "/supermarket-shop-react/static/js/runtime-main.473c5d7b.js",
+    "runtime-main.js.map": "/supermarket-shop-react/static/js/runtime-main.473c5d7b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/supermarket-shop-react/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.76c80ea5.chunk.js": "/supermarket-shop-react/static/js/2.76c80ea5.chunk.js",
+    "static/js/2.76c80ea5.chunk.js.map": "/supermarket-shop-react/static/js/2.76c80ea5.chunk.js.map",
+    "static/js/3.e7ca2ea5.chunk.js": "/supermarket-shop-react/static/js/3.e7ca2ea5.chunk.js",
+    "static/js/3.e7ca2ea5.chunk.js.map": "/supermarket-shop-react/static/js/3.e7ca2ea5.chunk.js.map",
+    "index.html": "/supermarket-shop-react/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/supermarket-shop-react/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.9c83dca9.chunk.css.map": "/supermarket-shop-react/static/css/main.9c83dca9.chunk.css.map",
+    "static/js/2.76c80ea5.chunk.js.LICENSE.txt": "/supermarket-shop-react/static/js/2.76c80ea5.chunk.js.LICENSE.txt",
+    "static/media/Child-eating-vegetable.ff9a415b.jpg": "/supermarket-shop-react/static/media/Child-eating-vegetable.ff9a415b.jpg",
+    "static/media/alfredo.8c3c653b.jpg": "/supermarket-shop-react/static/media/alfredo.8c3c653b.jpg",
+    "static/media/alimentos-que-ajudam-a-controlar-o-acido-urico-no-sangue.a32f2cfc.jpg": "/supermarket-shop-react/static/media/alimentos-que-ajudam-a-controlar-o-acido-urico-no-sangue.a32f2cfc.jpg",
+    "static/media/borsa_ortaggi-4a2b0236.3e643b45.jpeg": "/supermarket-shop-react/static/media/borsa_ortaggi-4a2b0236.3e643b45.jpeg",
+    "static/media/cabbage slaw.e90bad85.jpg": "/supermarket-shop-react/static/media/cabbage slaw.e90bad85.jpg",
+    "static/media/caponata.67ca3562.jfif": "/supermarket-shop-react/static/media/caponata.67ca3562.jfif",
+    "static/media/donuts.6019a7ec.jpg": "/supermarket-shop-react/static/media/donuts.6019a7ec.jpg",
+    "static/media/fruits.e9d2652d.jpg": "/supermarket-shop-react/static/media/fruits.e9d2652d.jpg",
+    "static/media/is-vegan-junk-food-healthy.1a458c7d.jpg": "/supermarket-shop-react/static/media/is-vegan-junk-food-healthy.1a458c7d.jpg",
+    "static/media/pasta1.7fccd6e5.jpg": "/supermarket-shop-react/static/media/pasta1.7fccd6e5.jpg",
+    "static/media/vegetable.a8b82712.jpg": "/supermarket-shop-react/static/media/vegetable.a8b82712.jpg",
+    "static/media/woman-grocery-shopping-iStock-1141343601.f64cc4c5.jpg": "/supermarket-shop-react/static/media/woman-grocery-shopping-iStock-1141343601.f64cc4c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.473c5d7b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.76c80ea5.chunk.js",
+    "static/css/main.9c83dca9.chunk.css",
+    "static/js/main.a5b107d5.chunk.js"
+  ]
+}
